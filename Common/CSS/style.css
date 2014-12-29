@@ -1,0 +1,56 @@
+body{
+	margin:17px 0 15px 0;
+	padding:0;
+	text-align:center;
+    color: #FFFFFF;
+	font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif
+    background-repeat:no-repeat;
+    background-color:#C5EBE9;
+    
+}
+#container{
+	margin:40px auto 10px;
+	width:580px;
+	text-align:left;
+    background-color:#7092BE;
+    font-size:small;
+    
+	border:1px solid #ccc;
+	-webkit-box-shadow:rgba(0,0,0,0.2) 0px 0px 5px;
+	-moz-box-shadow:rgba(0,0,0,0.2) 0px 0px 5px;
+	-o-box-shadow:rgba(0,0,0,0.2) 0px 0px 5px;
+	box-shadow:rgba(0,0,0,0.2) 0px 0px 5px;
+	height:250px;
+}
+#container #tabel1{
+	margin-left:100px;
+}
+h2{color:#840015;}
+form ul{margin:0;padding:0;list-style-type:none}
+form ul li{padding-bottom: 7px}
+form ul li.tt{margin:10px 0px; font-weight:bold;}
+input{color: #000}
+textarea{width: 300px; height: 100px}
+label{display: block; padding: 7px 0; float: left; width: 180px}
+input[type="submit"] {padding: 2px 30px}
+input[name="send"]{margin-left: 180px}
+.contact-form{margin:20px 14px 0 14px;padding:0 0 20px 0;position:relative}
+.contact-form li{}
+.rq, .error{color: red}
+.hide {display: none}
+#confirm {
+    margin:150px auto 210px;
+    width:310px;
+	text-align:center;
+    background-color:#7092BE;
+    font-size: larger;
+    
+ }
+ #tutorial{     
+    margin:50px auto 210px;
+    padding-top: 50px;
+    width:400px;
+    background-color:#7092BE;
+    font-size: larger;
+ }
+ input.login{padding: 10px 70px ;}

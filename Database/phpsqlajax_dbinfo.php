@@ -1,0 +1,11 @@
+<?php
+$username="root";
+$password="";
+$database="sever";
+$tableAccount="account";
+$tableCallLog="call_logs";
+$tableDangerArea="danger_area";
+$tableParameters="parameters";
+$tablePosition="position";
+$tableSms="sms";
+?>
